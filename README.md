@@ -66,4 +66,13 @@ For example : if we pass query as Jam, records whose full name has Jam in it, wi
 
 
 
+Please find screenshots below for reference :
+
+
+![contact_created](https://user-images.githubusercontent.com/30754286/114154963-957dbe00-993e-11eb-9f9c-97b62c27ee46.png)
+![findAllContacts](https://user-images.githubusercontent.com/30754286/114154976-9878ae80-993e-11eb-8439-e6422a121691.png)
+![findById](https://user-images.githubusercontent.com/30754286/114154978-99114500-993e-11eb-9c48-faf3e38894b3.png)
+![filter_zipcode](https://user-images.githubusercontent.com/30754286/114154979-99a9db80-993e-11eb-9967-a8f482a6fcae.png)
+![filter_name](https://user-images.githubusercontent.com/30754286/114154983-9adb0880-993e-11eb-87e9-7a6d59b4fcb0.png)
+![contacts_table](https://user-images.githubusercontent.com/30754286/114154990-9b739f00-993e-11eb-9542-d5aca20ff8df.png)
 
