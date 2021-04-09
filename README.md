@@ -2,7 +2,7 @@
 This application facilitates users to manage contacts. New contacts can be added, existing can be fetched, filtered on some parameters.
 
 
-========================================Contact Management Application=======================================
+=====Contact Management Service========
 
 This application facilitates the users to manage the contacts. Contacts can be added and saved to the in-memory H2 Database, all contacts 
 can be fetched, contacts can be searched using contactId, which is an unique identifier. Also, filters can be applied on zipcode,
