@@ -9,7 +9,8 @@ can be fetched, contacts can be searched using contactId, which is an unique ide
 and contacts matching those criteria can be fetched.
 
 We also have implemented logging functionality and log the requests and responses/exceptions, 
-since it is a cross-cutting concern across the application.
+since it is a cross-cutting concern across the application. Also, test cases are written as a part of QA to ensure correctness of 
+functionalities implemented.
 
 
 Features of the application along with their endpoints can be described as follows:
