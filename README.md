@@ -15,7 +15,7 @@ functionalities implemented.
 
 Features of the application along with their endpoints can be described as follows:
 
-Base URL : http:\\localhost:8080/api/v1
+Base URL : http://localhost:8080/api/v1
 
 
 1) GET /contacts 
